@@ -126,9 +126,9 @@ e) Repeat steps b-d until you have used all the divisible digits.
 <hr/>
 
 ## Authors of the project:
-  * Weaverir ([GitHub](https://github.com/RimTanaka))
-  * Daynawal ([GitHub](https://github.com/matherzzz))
-  * Dexterwe ([GitHub](https://github.com/Batmanschool21))
-  * Masakosh ([GitHub](https://github.com/Antisessa))
+  * RimTanaka ([GitHub](https://github.com/RimTanaka))
+  * matherzzz ([GitHub](https://github.com/matherzzz))
+  * Batmanschool21 ([GitHub](https://github.com/Batmanschool21))
+  * Antisessa ([GitHub](https://github.com/Antisessa))
   
 <hr/>
